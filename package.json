@@ -1,0 +1,23 @@
+{
+  "name": "dummy-data-khair",
+  "version": "10.0.0",
+  "description": "Provides you an array of customizable dummy objects of type string, number and url, for the testing and production purpose, that reduces the manual effort of making dummy data, searching image urls and brain storming different attributes. This will definately boost up the devlopment workflow.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dummy data generator",
+    "dummy data by yogesh",
+    "npm package",
+    "yogesh vashisth",
+    "khair"
+  ],
+  "author": "Yogesh Khair Vashisth",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshvas/npmPackageDummyData.git"
+  }
+}
